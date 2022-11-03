@@ -1,8 +1,8 @@
-import 'package:graphviz/src/language/edge_op.dart';
-import 'package:graphviz/src/language/edge_rhs.dart';
-import 'package:graphviz/src/language/node_id.dart';
-import 'package:graphviz/src/language/statement.dart';
-import 'package:graphviz/src/language/subgraph.dart';
+import 'package:graphviz2/src/language/edge_op.dart';
+import 'package:graphviz2/src/language/edge_rhs.dart';
+import 'package:graphviz2/src/language/node_id.dart';
+import 'package:graphviz2/src/language/statement.dart';
+import 'package:graphviz2/src/language/subgraph.dart';
 
 List<Statement> dataToStatements(Map<String, List<String>> data, EdgeOp opType) {
   final statements = <Statement>[];

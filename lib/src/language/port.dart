@@ -1,4 +1,4 @@
-import 'package:graphviz/src/language/compass_pt.dart';
+import 'package:graphviz2/src/language/compass_pt.dart';
 
 /// A port on a node.
 ///

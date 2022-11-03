@@ -1,5 +1,5 @@
-import 'package:graphviz/src/language/edge_rhs.dart';
-import 'package:graphviz/src/language/port.dart';
+import 'package:graphviz2/src/language/edge_rhs.dart';
+import 'package:graphviz2/src/language/port.dart';
 
 /// A node ID.
 class NodeId implements EdgeTarget {

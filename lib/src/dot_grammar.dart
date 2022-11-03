@@ -1,14 +1,14 @@
-import 'package:graphviz/src/language/a_list.dart';
-import 'package:graphviz/src/language/attr_list.dart';
-import 'package:graphviz/src/language/compass_pt.dart';
-import 'package:graphviz/src/language/edge_op.dart';
-import 'package:graphviz/src/language/edge_rhs.dart';
-import 'package:graphviz/src/language/graph.dart';
-import 'package:graphviz/src/language/node_id.dart';
-import 'package:graphviz/src/language/port.dart';
-import 'package:graphviz/src/language/statement.dart';
-import 'package:graphviz/src/language/stmt_list.dart';
-import 'package:graphviz/src/language/subgraph.dart';
+import 'package:graphviz2/src/language/a_list.dart';
+import 'package:graphviz2/src/language/attr_list.dart';
+import 'package:graphviz2/src/language/compass_pt.dart';
+import 'package:graphviz2/src/language/edge_op.dart';
+import 'package:graphviz2/src/language/edge_rhs.dart';
+import 'package:graphviz2/src/language/graph.dart';
+import 'package:graphviz2/src/language/node_id.dart';
+import 'package:graphviz2/src/language/port.dart';
+import 'package:graphviz2/src/language/statement.dart';
+import 'package:graphviz2/src/language/stmt_list.dart';
+import 'package:graphviz2/src/language/subgraph.dart';
 import 'package:petitparser/petitparser.dart';
 
 /// The grammar definition of the Graphviz Dot Language.

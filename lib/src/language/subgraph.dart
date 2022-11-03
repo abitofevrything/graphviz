@@ -1,4 +1,4 @@
-import 'package:graphviz/graphviz.dart';
+import 'package:graphviz2/graphviz.dart';
 
 /// A subgraph within a larger graph.
 class Subgraph implements EdgeTarget, Statement {

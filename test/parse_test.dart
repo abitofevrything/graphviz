@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:graphviz/src/dot_grammar.dart';
+import 'package:graphviz2/src/dot_grammar.dart';
 import 'package:test/test.dart';
 
 import 'utils/parser_matchers.dart';

@@ -1,5 +1,5 @@
 import 'package:collection/collection.dart';
-import 'package:graphviz/src/language/a_list.dart';
+import 'package:graphviz2/src/language/a_list.dart';
 
 /// A list of attributes.
 ///

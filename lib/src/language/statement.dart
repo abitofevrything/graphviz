@@ -1,8 +1,8 @@
-import 'package:graphviz/src/language/a_list.dart';
-import 'package:graphviz/src/language/attr_list.dart';
-import 'package:graphviz/src/language/edge_op.dart';
-import 'package:graphviz/src/language/edge_rhs.dart';
-import 'package:graphviz/src/language/node_id.dart';
+import 'package:graphviz2/src/language/a_list.dart';
+import 'package:graphviz2/src/language/attr_list.dart';
+import 'package:graphviz2/src/language/edge_op.dart';
+import 'package:graphviz2/src/language/edge_rhs.dart';
+import 'package:graphviz2/src/language/node_id.dart';
 
 /// A statement in a graph.
 ///

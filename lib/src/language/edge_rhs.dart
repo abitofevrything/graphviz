@@ -1,5 +1,5 @@
-import 'package:graphviz/src/language/edge_op.dart';
-import 'package:graphviz/src/language/statement.dart';
+import 'package:graphviz2/src/language/edge_op.dart';
+import 'package:graphviz2/src/language/statement.dart';
 
 /// A target for an edge.
 ///

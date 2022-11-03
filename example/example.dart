@@ -1,4 +1,4 @@
-import 'package:graphviz/graphviz.dart';
+import 'package:graphviz2/graphviz.dart';
 
 void main() {
   final parser = DotParser();
