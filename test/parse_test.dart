@@ -18,8 +18,6 @@ void main() async {
     for (final file in files) {
       test(file.path, () async {
         expect(parser.parse(await file.readAsString()), isSuccessContext());
-
-        print('\n\n\n\n\n ${parser.parse(await file.readAsString()).value}');
       });
     }
   });
