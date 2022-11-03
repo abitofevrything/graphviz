@@ -1,7 +1,8 @@
 name: graphviz
 description: A library for parsing & creating Graphviz Dot files.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/abitofevrything/graphviz
+issue_tracker: https://github.com/abitofevrything/graphviz/issues
 
 environment:
   sdk: '>=2.18.0 <3.0.0'
