@@ -1,0 +1,15 @@
+name: graphviz
+description: A library for parsing & creating Graphviz Dot files.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies:
+  collection: ^1.17.0
+  petitparser: ^5.1.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.16.0
